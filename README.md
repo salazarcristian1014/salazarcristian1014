@@ -82,7 +82,13 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="salazarcristian1014@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f4661&section=footer"/>
-</p>
+<a href="mailto:salazarcristian1014@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="salazarcristian1014@gmail.com" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:salazarcristian1014@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="salazarcristian1014@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:salazarcristian1014@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="salazarcristian1014@gmail.com" style="margin-bottom: 5px;" />
+</a>
