@@ -2,24 +2,25 @@
 ![salazarcristian1014 Banner Image](https://github.com/salazarcristian1014/salazarcristian1014/blob/main/bannercristiansalazar01.png)
 
 <!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<div style="position: relative; top: 200px;">
+  <img align="right" width="40%" src="https://github.com/salazarcristian1014/banner/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2).png">
 </div>
 
 <!--Header Name-->
-# 👋 Hello, I'm Cristian welcome to my GitHub!! 
-*Data Science "Turning data into actionable insights."*
-<br /> 
+<div style="clear: both;">
+  <h1>👋 Hello, I'm Cristian welcome to my GitHub!!</h1> 
+  <p><em>Data Science "Turning data into actionable insights."</em></p>
+</div>
 
 <!--Start Intro-->               
-<p align="left">I’m Data Scientist passionate about extracting value from data and turning it into practical solutions. I’ve been developing my skills in data analysis, visualization, and machine learning through personal projects and collaborations. Here, you’ll find examples of my work using tools like Python, JupyterNotebook, R and SQL . I’m excited to keep learning and contribute to teams that value innovation and data-driven thinking. </p>
+<p align="left">I’m a Data Scientist passionate about extracting value from data and turning it into practical solutions. I’ve been developing my skills in data analysis, visualization, and machine learning through personal projects and collaborations. Here, you’ll find examples of my work using tools like Python, JupyterNotebook, R, and SQL. I’m excited to keep learning and contribute to teams that value innovation and data-driven thinking. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
+- 📚 Continuous learning 
+- 💬 Effective communication
+- 🤝 Teamwork
+- 🔄 Adaptability
+- 🌐 English and Spanish
+- 🔧 Contributing to Open Source
 - 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
 <!--End Intro-->
 
