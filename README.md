@@ -79,16 +79,5 @@
 </a>
 
 <a href="mailto:salazarcristian1014@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="salazarcristian1014@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="mailto:salazarcristian1014@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="salazarcristian1014@gmail.com" style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:salazarcristian1014@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="salazarcristian1014@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="mailto:salazarcristian1014@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="salazarcristian1014@gmail.com" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email to salazarcristian1014@gmail.com" style="margin-bottom: 5px;" />
 </a>
