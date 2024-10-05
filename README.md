@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div style="position: relative; top: 200px;">
-  <img align="right" width="40%" src="https://github.com/salazarcristian1014/banner/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2).png">
+  <img align="right" width="40%" src="Diseño sin título (2).png">
 </div>
 
 <!--Header Name-->
