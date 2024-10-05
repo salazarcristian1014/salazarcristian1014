@@ -21,7 +21,7 @@
 - 🔄 Adaptability
 - 🌐 English and Spanish
 - 🔧 Contributing to Open Source
-- 💻 Visit my [Portfolio](https://github.com/salazarcristian1014/Portfolio) for more details about me.
+- 💻 Visit my [Portfolio](https://github.com/salazarcristian1014?tab=repositories) for more details about me.
 <!--End Intro-->
 ---
 <!--Languages and Tools Section-->       
