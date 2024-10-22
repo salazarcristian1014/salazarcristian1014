@@ -13,7 +13,7 @@
 </div>
 
 <!--Start Intro-->               
-<p align="left">I’m a Data Scientist passionate about extracting value from data and turning it into practical solutions. I’ve been developing my skills in data analysis, visualization, and machine learning through personal projects and collaborations. Here, you’ll find examples of my work using tools like Python, JupyterNotebook, R, and SQL. I’m excited to keep learning and contribute to teams that value innovation and data-driven thinking. </p>
+<p align="left">Data Analyst specialized in transforming complex data into valuable information for decision-making. I master key tools such as Excel, SQL, Power BI, and Python, which I use for data cleaning, analysis, and visualization. I am passionate about improving data quality and generating actionable insights that drive business growth. My approach is based on continuous improvement and staying up-to-date with the latest techniques and technologies in data analysis.. </p>
 
 - 📚 Continuous learning 
 - 💬 Effective communication
