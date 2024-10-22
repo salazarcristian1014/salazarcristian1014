@@ -1,5 +1,5 @@
 <!--Banner-->
-![salazarcristian1014 Banner Image](https://github.com/salazarcristian1014/salazarcristian1014/blob/main/bannercristiansalazar01.png)
+![salazarcristian1014 Banner Image](Blue Modern Professional LinkedIn Banner.png)
 
 <!--Night Owl image-->
 <div style="position: relative; top: 200px;">
