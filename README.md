@@ -9,7 +9,7 @@
 <!--Header Name-->
 <div style="clear: both;">
   <h1>👋 Hello, I'm Cristian welcome to my GitHub!!</h1> 
-  <p><em>Data Science "Turning data into actionable insights."</em></p>
+  <p><em>Data Analyst "Turning data into actionable insights."</em></p>
 </div>
 
 <!--Start Intro-->               
@@ -24,52 +24,7 @@
 - 💻 Visit my [Portfolio](https://github.com/salazarcristian1014?tab=repositories) for more details about me.
 <!--End Intro-->
 ---
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,git,vscode&perline=10"  />
-</p>
 <br />
-
-<!--Python Libraries Section-->  
-<h2 align="center">Pʏᴛʜᴏɴ Lɪʙʀᴀʀɪᴇs</h2>
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  </a>
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  </a>
-  <!-- Matplotlib -->
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Matplotlib-ffdd54?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib">
-  </a>
-  <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
-  </a>
-  <!-- Scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black" alt="Scikit-learn">
-  </a>
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  </a>
-  <!-- Statsmodels -->
-  <a href="https://www.statsmodels.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels">
-  </a>
-  <!-- XGBoost -->
-  <a href="https://xgboost.readthedocs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost">
-  </a>
-</p>
-<br />
-<br />
-
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
