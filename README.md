@@ -24,7 +24,7 @@
 - 💻 Visit my [Portfolio](https://github.com/salazarcristian1014?tab=repositories) for more details about me.
 
 ### 🔭 What I'm currently working on:
-* **Reservation Data Analytics:** Developing a Python script to analyze reservation databases, predict cancellation rates, and automate follow-up communications. 
+* **[Restaurant Cancellation Analytics](https://github.com/salazarcristian1014/Restaurant-Cancelation-Project):** Developing a Python script to analyze reservation databases from a high-end restaurant, predict cancellation rates, and automate follow-up communications.
 <!--End Intro-->
 ---
 <br />
