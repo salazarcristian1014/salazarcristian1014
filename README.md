@@ -13,7 +13,7 @@
 </div>
 
 <!--Start Intro-->               
-<p align="left">Data Analyst specialized in transforming complex data into valuable information for decision-making. I master key tools such as Excel, SQL, Power BI, and Python, which I use for data cleaning, analysis, and visualization. I am passionate about improving data quality and generating actionable insights that drive business growth. My approach is based on continuous improvement and staying up-to-date with the latest techniques and technologies in data analysis.. </p>
+<p align="left">I bridge the gap between hospitality management and data automation. With extensive background in high-end restaurant operations, I now build Python and AI solutions to optimize cash flow, streamline operations, and enhance customer experience. </p>
 
 - 📚 Continuous learning 
 - 💬 Effective communication
@@ -22,6 +22,9 @@
 - 🌐 English and Spanish
 - 🔧 Contributing to Open Source
 - 💻 Visit my [Portfolio](https://github.com/salazarcristian1014?tab=repositories) for more details about me.
+
+### 🔭 What I'm currently working on:
+* **Reservation Data Analytics:** Developing a Python script to analyze reservation databases, predict cancellation rates, and automate follow-up communications. 
 <!--End Intro-->
 ---
 <br />
